@@ -7,3 +7,5 @@
 ###### Copy all the public files in your root folder.
 ###### And all other files one dir above.  
 ###### Run index.html on your localhost and enjoy
+
+## The above file do not include my github app key, generate your own and continue
