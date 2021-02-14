@@ -7,3 +7,10 @@
 ###### Copy all the public files in your root folder.
 ###### And all other files one dir above.  
 ###### Run index.html on your localhost and enjoy
+
+## The above file do not include my github app key, generate your own with new github app at https://github.com/settings/apps/new and continue
+#### Add the following files, with the following names (without any extension), with your generated key, outside the public folder. 
+#### iss = App ID
+#### cID = client ID
+#### cSecret - client Secret
+#### activitytrackerPrivatekey.pem
