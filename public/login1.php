@@ -10,7 +10,7 @@ $payload=array(
     "iss"=>file_get_contents("../iss")
 );
 
-$ky=file_get_contents("../activiytracker.2021-02-13.private-key.pem");
+$ky=file_get_contents("../activitytrackerPrivatekey.pem");
 
 $jwt = JWT::encode($payload,$ky,'RS256');
 
